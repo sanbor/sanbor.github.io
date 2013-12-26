@@ -1,31 +1,26 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8"/>
-  <title>Santiago Borrazás' homepage</title>
-  <meta name="description" content="Santiago Borrazás' website">
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/borrazas.org.css">
-</head>
-<body>
-  <h1>Santiago Borrazás</h1>
+---
+layout: borrazas.org
+title: Santiago Borrazás
+---
+<h1 class="header">Santiago Borrazás</h1>
+<h2>Blog posts</h2>
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date_to_string }}</span> </li>
+  {% endfor %}
+</ul>
 
-  <p>Welcome to Santiago Borrazás' homepage.</p>
-  <p>There is not much to see right now.</p>
-  <p>Please check out <a href="//borrazas.org/cv/">my résumé</a> or
-    <a href="mailto:hi@borrazas.org">contact me</a>.</p>
-
-  <footer>Last updated 2013-11-08</footer>
-
-  <!-- Google Analytics -->
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-45563220-1', 'borrazas.org');
-    ga('send', 'pageview');
-  </script>
-</body>
-</html>
+<h2>About</h2>
+<div class="links">
+        <a href="https://github.com/sanbor"><span>&#xf09b;</span>
+            Github</a>
+    
+         <a href="https://twitter.com/sanbor"><span>&#xf099;</span>
+            Twitter</a>
+         <a href="http://flickr.com/sanbor"><span>&#xf16e;</span>
+            Flickr</a>
+         <a href="//borrazas.org/cv/"><span>&#xf016</span>
+            Check out my résumé</a>
+         <a href="mailto:hi@borrazas.org"><span>&#xf0e0;</span>
+            Contact me</a>
+</div>
