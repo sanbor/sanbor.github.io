@@ -77,3 +77,7 @@ something different this year. It was a lovely dinner with some blackouts
 because the heat.
 
 ![Christmas dinner blackout]({{ site.baseurl }}/images/christmas-dinner-blackout.jpg)
+
+
+Special thanks to Beatrice for the picture above and the help to write the
+article.
