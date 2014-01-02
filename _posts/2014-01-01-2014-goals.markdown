@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "Goals"
+date:   2014-01-01 23:30:00
+categories: personal motivation
+---
+
+I enjoyed writing the [2013 Achievements]
+({{ site.baseurl }}/2013-achievements.html) post on Christmas, so today
+I’m writing a post about ~~bullshit~~ goals for this new year.
+
+
+## Make and stick to a schedule
+
+It’s hard for me (as for most people) to stick to a schedule.
+
+I want to learn the skill of creating a new habit, but also have the
+flexibility to break my own rules and change them when necessary.
+
+Probably using some sort of methodology or software could help me with this.
+
+
+## Study six days a week and plan
+
+My freshman year in college was hard. I didn’t study often enough. What I did
+was the typical mistake of going to lectures and studying  just days before the
+exam.
+
+It was good enough to avoid re-taking the classes but not enough to be a good
+student. This year, thanks to my new job, I will have time to study two hours
+per day after work.
+
+I believe that doing things in an organised and iterative way improves the
+results exponentially. So I hope to have enough discipline to study daily.
+
+
+### Planning
+
+I have to start planning my studies in order to study for a reasonable amount
+of time.
+
+I have never been very organised with my studies, so not only studying often
+but doing it in an organised way will be a big challenge.
+
+
+### I want to [grok]((http://en.wikipedia.org/wiki/Grok) what I am studying, not just pass the exams
+
+I enjoy it when I truly understand a topic, not just when *I know it*.
+Understanding means knowing the whys of the topic, not just the superficial
+layer.  I want to write posts on the topics that I study and put them online,
+to help me and other students understand better.
+
+
+## Improve english
+
+I will learn [the sounds of English](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/sounds/),
+irregular verbs, tenses and vocabulary.
+
+I believe that the earlier you work on your language, the easier it is to
+correct your bad habits.
+
+This year I will be taking an English class (the first of two years) and I
+hope that will help me improve my English.
+
+However (even with English speakers telling me that I don’t sound that bad),
+my goal is to improve my English (both accent and vocabulary) to a point where
+it should be hard for an English speaker to tell that I’m not native.
+
+I would like to record a video once a month showing my progress.
+
+This past year, Beatrice and I have been switching between English and Spanish
+every other day. This was a great way to get used to speaking in English, but
+sometimes is a little messy to be switching languages all the time. So, we
+will see how it goes to switch languages each week instead of each day.
+
+Today, I’m starting to learn the sounds of English and I will continue with
+tenses, irregular verbs, etc.
+
+
+## Blog frequently
+
+I think blogging is a great way to show yourself and the world your progress
+and to share your work.
+
+Also, it’s a great way to access to your work from anywhere, not only when you
+have your own computer.
+
+I think that blogging my studies will be a great way to keep this blog updated.
+
+
+## Launch mini apps
+
+I know that this is almost impossible because I’m working and studying, and I
+want to do both things well, but I would like to be able to accomplish some
+little-medium projects this year.
+
+
+## Floss my teeth twice a day
+
+As with English, it’s important to have good habits and correct the bad ones
+sooner rather than later.
+
+Dental floss will help with my discipline as well as with my ~~breath~~ health.
+
+
+## Read 12 books a year
+
+With all my studies and work, I have not been reading books of my own
+choosing. So I will put this number so as to not forget about reading.
+
+
+## Draw and design
+
+I recently have been designing a little and I really enjoy it. I will try to
+doodle something and/or design more often.
+
+
+## Monthly report
+
+I will write 12 progress reports on each one of these goals to have metrics of
+the goals that I have set today.
+
+
+***
+
+
+That’s it! In the following months we will see if this goals are too much or I
+still having free time.
+
+
+Special thanks to Beatrice with the help in the editing.

@@ -1,5 +1,7 @@
 name: Borrazas.org
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 pygments: true
 baseurl: 
 permalink: /:title.html
