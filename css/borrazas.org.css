@@ -100,6 +100,14 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'FontAwesome';
 }
 
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 2.8rem 0 2.3rem 0;
+}
+
 footer {
   color: #999;
   font-size: 0.8rem;
