@@ -9,6 +9,8 @@ I enjoyed writing the [2013 Achievements]
 ({{ site.baseurl }}/2013-achievements.html) post on Christmas, so today
 I’m writing a post about ~~bullshit~~ goals for this new year.
 
+This is the list:
+
 
 ## Make and stick to a schedule
 
@@ -31,7 +33,8 @@ student. This year, thanks to my new job, I will have time to study two hours
 per day after work.
 
 I believe that doing things in an organised and iterative way improves the
-results exponentially. So I hope to have enough discipline to study daily.
+results exponentially. So I hope to have enough discipline to study daily and
+do it better this year.
 
 
 ### Planning
@@ -73,9 +76,6 @@ every other day. This was a great way to get used to speaking in English, but
 sometimes is a little messy to be switching languages all the time. So, we
 will see how it goes to switch languages each week instead of each day.
 
-Today, I’m starting to learn the sounds of English and I will continue with
-tenses, irregular verbs, etc.
-
 
 ## Blog frequently
 
@@ -92,7 +92,7 @@ I think that blogging my studies will be a great way to keep this blog updated.
 
 I know that this is almost impossible because I’m working and studying, and I
 want to do both things well, but I would like to be able to accomplish some
-little-medium projects this year.
+little-medium side projects this year.
 
 
 ## Floss my teeth twice a day
@@ -128,4 +128,4 @@ That’s it! In the following months we will see if this goals are too much or I
 still having free time.
 
 
-Special thanks to Beatrice with the help in the editing.
+Special thanks to Beatrice for her help with editing this post.
